@@ -11,7 +11,7 @@ export default class Home extends Component {
   render() {
     return (
       <Container>
-        <Heading>PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS</Heading>
+        <Heading>PRIVACY POLICY MODEL FOR COVID-19 TRACKAPP</Heading>
         <Text>
           This privacy policy governs your use of the software application
           Covid-19 TrackApp for mobile devices that was created by IC
